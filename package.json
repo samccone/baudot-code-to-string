@@ -1,0 +1,33 @@
+{
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "name": "baudot-code-to-string",
+  "version": "0.1.0",
+  "description": "converts baudot code to a string",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samccone/baudot-code-to-string.git"
+  },
+  "keywords": [
+    "baudot",
+    "code",
+    "decoding",
+    "morse",
+    "code"
+  ],
+  "author": "Sam Saccone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samccone/baudot-code-to-string/issues"
+  },
+  "homepage": "https://github.com/samccone/baudot-code-to-string"
+}
